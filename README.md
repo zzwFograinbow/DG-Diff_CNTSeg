@@ -1,2 +1,2 @@
 # DG-Diff_CNTSeg
-This is CNTSeg work base on Dif
+We will release our code after acceptance.
